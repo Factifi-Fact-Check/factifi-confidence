@@ -1,0 +1,99 @@
+{
+  "claim": "Vaccines cause autism in children",
+  "claim_type": "General Factual",
+  "verdict": "FALSE",
+  "reasoning": "The analysis of the provided sources and their positions on the claim that vaccines cause autism in children leads to a clear conclusion that the claim is false. The majority of the sources, especially those with higher credibility scores and official standing, either oppose the claim directly or provide evidence that undermines it.\n\n1. **Source Analysis**:\n   - **Sources 1-3** are academic studies that explore vaccine hesitancy among parents of children with autism or developmental delays. While these sources are neutral/unclear on the direct claim, they focus on the phenomenon of vaccine hesitancy rather than providing evidence that vaccines cause autism. Their neutrality does not support the claim but rather highlights the context of vaccine hesitancy.\n   \n   - **Source 4** and **Source 5** are categorized as neutral/unclear but mention that studies cited by those claiming a link between vaccines and autism are critically flawed. This indirectly opposes the claim by questioning the validity of the evidence used to support it.\n   \n   - **Source 6** is also listed as neutral/unclear but hints at debunking myths around vaccines and autism, suggesting a stance that does not support the claim.\n   \n   - **Source 7** directly opposes the claim, stating that myths associating vaccines or mercury with autism have been amplified by various groups without scientific basis. This source, being from an official publication (PMC), carries significant weight due to its scientific and public health context.\n   \n   - **Source 8**, from the CDC, while listed as neutral/unclear, mentions that studies continue to show vaccines are not associated with autism spectrum disorder (ASD), directly contradicting the claim.\n   \n   - **Source 9**, an expert AI analysis, strongly opposes the claim, stating it is debunked by current evidence and expert consensus. This source synthesizes information across studies and expert opinions, providing a comprehensive rebuttal to the claim.\n\n2. **Credibility and Consistency**:\n   - The sources with the highest credibility scores and official standing (e.g., PMC, CDC) either oppose the claim or provide evidence that undermines it. The consistency across these sources, especially those directly opposing the claim, lends strong support to the verdict that the claim is false.\n   \n   - The academic sources, while neutral on the claim, do not provide evidence supporting the claim. Their focus on vaccine hesitancy and parental beliefs does not substantiate a causal link between vaccines and autism.\n\n3. **Evidence vs. Claim**:\n   - The evidence provided does not support the claim that vaccines cause autism in children. Instead, it either directly opposes the claim, undermines the evidence used to support it, or focuses on related issues without substantiating the claim.\n\nIn conclusion, based on the analysis of the sources provided, their credibility, and the consistency of the evidence against the claim, the verdict is that the claim \"vaccines cause autism in children\" is false. The evidence strongly contradicts the claim, with the most credible and direct sources opposing it or undermining the evidence used to support it.",
+  "confidence_score": 77,
+  "confidence_interpretation": "High - Generally reliable",
+  "sources_found": 9,
+  "source_breakdown": {
+    "academic": 3,
+    "official": 4,
+    "web": 1,
+    "expert": 1
+  },
+  "confidence_components": {
+    "n_sources": 9,
+    "credibility_score": 0.757,
+    "agreement_score": 0.256,
+    "hedging_density": 0.008,
+    "tone_score": 0.992,
+    "evidence_score": 0.717
+  },
+  "sources": [
+    {
+      "type": "academic",
+      "title": "Understanding Vaccine Hesitancy Among Parents of Children With Autism Spectrum Disorder and Parents of Children With Non-Autism Developmental Delays",
+      "url": "https://www.semanticscholar.org/paper/d4df44f0ff10066e7ad710ad08d06f05774b4505",
+      "credibility": 0.85,
+      "supports_claim": null,
+      "content_preview": "Parents of children with autism spectrum disorder (ASD) may be at greater risk for developing antivaccine beliefs that lead to vaccine delays and/or r..."
+    },
+    {
+      "type": "academic",
+      "title": "Vaccines and autism: a preliminary qualitative study on the beliefs of concerned mothers in Italy",
+      "url": "https://www.semanticscholar.org/paper/10245c173b6dc0bad0219011a1e605472878e9cb",
+      "credibility": 0.85,
+      "supports_claim": null,
+      "content_preview": "ABSTRACT Purpose: While a large body of evidence has shown that the administration of the measles-mumps-rubella (MMR) vaccine is not associated with a..."
+    },
+    {
+      "type": "academic",
+      "title": "Vaccine Hesitancy and Attributions for Autism among Racially and Ethnically Diverse Groups of Parents of Children with Autism Spectrum Disorder: A Pilot Study",
+      "url": "https://www.semanticscholar.org/paper/3885993445e7718068a49ad4aa8e26a943feeb15",
+      "credibility": 0.85,
+      "supports_claim": null,
+      "content_preview": "Little is known about how racial/ethnic differences may influence attributions for autism spectrum disorder (ASD) and subsequent vaccine hesitancy, th..."
+    },
+    {
+      "type": "official",
+      "title": "Vaccines and Autism | Children's Hospital of Philadelphia",
+      "url": "https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism",
+      "credibility": 0.75,
+      "supports_claim": null,
+      "content_preview": "Two studies have been cited by those claiming that the MMR vaccine causes autism. Both studies are critically flawed."
+    },
+    {
+      "type": "web",
+      "title": "Is There a Connection Between Vaccines and Autism? (for Parents)",
+      "url": "https://kidshealth.org/en/parents/autism-studies.html",
+      "credibility": 0.6,
+      "supports_claim": null,
+      "content_preview": "Autism spectrum disorder (often just called autism) is a condition that affects the brain and can make it hard for those who have it to communicate an..."
+    },
+    {
+      "type": "official",
+      "title": "Vaccines Don't Cause Autism. Why Do Some People Think They Do?",
+      "url": "https://publichealth.jhu.edu/2025/the-evidence-on-vaccines-and-autism",
+      "credibility": 0.75,
+      "supports_claim": null,
+      "content_preview": "In 1971, the FDA approved the measles-mumps-rubella (MMR) vaccine, which combined three vaccines that had been approved previously—in 1963, ..."
+    },
+    {
+      "type": "official",
+      "title": "Vaccination as a cause of autism—myths and controversies - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5789217/",
+      "credibility": 0.68,
+      "supports_claim": false,
+      "content_preview": "Myths that vaccines or mercury are associated with autism have been amplified by misguided scientists; frustrated, but effective parent groups; and po..."
+    },
+    {
+      "type": "official",
+      "title": "Frequently Asked Questions about Autism Spectrum Disorder - CDC",
+      "url": "https://www.cdc.gov/autism/faq/index.html",
+      "credibility": 0.68,
+      "supports_claim": null,
+      "content_preview": "Many studies have looked at whether there is a relationship between vaccines and ASD. To date, the studies continue to show that vaccines are not asso..."
+    },
+    {
+      "type": "expert",
+      "title": "Expert AI Analysis",
+      "url": null,
+      "credibility": 0.82,
+      "supports_claim": false,
+      "content_preview": "The claim that \"vaccines cause autism in children\" is thoroughly debunked by current evidence and expert consensus. Here is a factual analysis with so..."
+    }
+  ],
+  "timestamp": "2025-05-22 23:41:17",
+  "processing_time": "36.93 seconds"
+}
