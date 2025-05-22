@@ -1,0 +1,74 @@
+{
+  "claim": "Modi went to russia on 22nd may",
+  "claim_type": "General Factual",
+  "verdict": "CAN'T SAY",
+  "reasoning": "The evidence provided from the sources does not conclusively support or refute the claim that Prime Minister Narendra Modi went to Russia on the 22nd of May. Here's a breakdown of the evidence and its implications:\n\n1. **Source 1** mentions that Prime Minister Modi was invited to visit Russia on 21 May, which aligns closely with the claim but does not confirm his presence in Russia specifically on the 22nd of May. The neutrality of the source's position and its credibility score of 0.68/1.0 make it a somewhat reliable source but not definitive.\n\n2. **Source 2** discusses an invitation for a different event on May 9 and mentions a visit in July, which is unrelated to the claim about the 22nd of May. Its neutrality and lower credibility score of 0.50/1.0 further contribute to the uncertainty.\n\n3. **Source 3** is focused on Putin accepting an invitation to visit India, which is irrelevant to the claim about Modi's travel dates to Russia. Despite its higher credibility score of 0.79/1.0, it does not provide useful information regarding the claim.\n\n4. **Source 4** confirms that Prime Minister Modi arrived in Moscow on an unspecified date to participate in the 22nd India-Russia Annual Summit. The lack of a specific date in the content makes it impossible to confirm or deny the claim based on this source alone.\n\n5. **Source 5** mentions a trip to Russia by Modi where he met Putin, but it specifies a date in 2018, which is not relevant to the claim unless the claim implies a historical context, which is not specified.\n\n6. **Source 6 (Expert AI Analysis)** supports the claim but does not provide specific evidence or a detailed explanation for its position. The credibility score of 0.82/1.0 suggests reliability, but without access to the underlying analysis or evidence, it's challenging to assess the basis of this support.\n\nGiven the evidence, the specific claim that \"Modi went to Russia on 22nd May\" cannot be confirmed or denied with certainty based on the provided sources. The evidence is either neutral, unclear, or irrelevant to the specific date mentioned in the claim. Therefore, without more precise information or confirmation of the date of Modi's visit to Russia, the verdict must be \"CAN'T SAY.\"",
+  "confidence_score": 69,
+  "confidence_interpretation": "High - Generally reliable",
+  "sources_found": 6,
+  "source_breakdown": {
+    "web": 4,
+    "news": 1,
+    "expert": 1
+  },
+  "confidence_components": {
+    "n_sources": 6,
+    "credibility_score": 0.684,
+    "agreement_score": 0.167,
+    "hedging_density": 0.018,
+    "tone_score": 0.982,
+    "evidence_score": 0.574
+  },
+  "sources": [
+    {
+      "type": "web",
+      "title": "Prime Minister Shri Narendra Modi's visit to the Russian Federation",
+      "url": "https://indianembassy-moscow.gov.in/prime_minister_shri_narendra_modi.php",
+      "credibility": 0.68,
+      "supports_claim": null,
+      "content_preview": "At the invitation of Mr. Vladimir Putin, President of the Russian Federation, Prime Minister Shri Narendra Modi will visit Russia on 21 May, ..."
+    },
+    {
+      "type": "web",
+      "title": "Russia Invites PM Modi For Victory Day Parade On May 9 - NDTV",
+      "url": "https://www.ndtv.com/world-news/russia-invites-pm-narendra-modi-for-victory-day-parade-on-may-9-8126969",
+      "credibility": 0.5,
+      "supports_claim": null,
+      "content_preview": "Russia Invites PM Modi For Victory Day Parade On May 9. In July last year, Prime Minister Modi visited Moscow to attend the 22nd Russia-India ..."
+    },
+    {
+      "type": "news",
+      "title": "Putin accepts Modi's invitation to visit India, Kremlin says | Reuters",
+      "url": "https://www.reuters.com/world/putin-accepts-modis-invitation-visit-india-kremlin-says-2025-05-05/",
+      "credibility": 0.79,
+      "supports_claim": null,
+      "content_preview": "Russian President Vladimir Putin has accepted an invitation from Indian Prime Minister Narendra Modi to visit the country, the Kremlin said ..."
+    },
+    {
+      "type": "web",
+      "title": "Prime Minister arrives in Moscow to participate in the 22nd India ...",
+      "url": "https://www.mea.gov.in/press-releases.htm?dtl/37934/Prime+Minister+arrives+in+Moscow+to+participate+in+the+22nd+IndiaRussia+Annual+Summit",
+      "credibility": 0.68,
+      "supports_claim": null,
+      "content_preview": "Prime Minister Shri Narendra Modi arrived in Moscow on an Official Visit today. On arrival, Prime Minister was received by HE Mr. Denis Manturov."
+    },
+    {
+      "type": "web",
+      "title": "India's Modi hails 'old-time friend' Russia during Putin summit - CNN",
+      "url": "https://www.cnn.com/2018/05/22/asia/modi-putin-russia-india-intl",
+      "credibility": 0.61,
+      "supports_claim": null,
+      "content_preview": "Indian Prime Minister Narendra Modi wrapped up a whirlwind month of diplomacy with a trip to Russia Monday, where he embraced President Vladimir Putin..."
+    },
+    {
+      "type": "expert",
+      "title": "Expert AI Analysis",
+      "url": null,
+      "credibility": 0.82,
+      "supports_claim": true,
+      "content_preview": "The claim that \"Modi went to Russia on 22nd May\" is not supported by current evidence. Here is a factual analysis based on the provided sources:\n\n1. *..."
+    }
+  ],
+  "timestamp": "2025-05-22 23:44:16",
+  "processing_time": "23.86 seconds"
+}
